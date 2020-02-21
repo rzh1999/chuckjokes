@@ -9,6 +9,7 @@ public class ChuckjokesApplication {
     public static void main(String[] args) {
         SpringApplication.run(ChuckjokesApplication.class, args);
         System.out.println("Testing Chuck Jokes App");
+        System.out.println("Testing Chuck Jokes App");
     }
 
 }
